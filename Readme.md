@@ -6,12 +6,18 @@ This is useful for applying additional charges based on the total price of items
 
 Installation
 1-  Download: Download the plugin ZIP file from the GitHub repository.
+
 2-  Install via WordPress Dashboard:
       >Log in to your WordPress admin panel.
+       
       >Go to the Plugins section.
+      
       >Click on Add New.
+      
       >Choose Upload Plugin and select the downloaded ZIP file.
+      
       >Click Install Now.
+      
       >Activate the plugin.
       
 3-  Install via FTP:
